@@ -21,7 +21,7 @@ grupo-01-avengers
 
 ## 2. Dar permisos
 
-Asignar los usuarios que trabajarán en él, así como el usuario de un servidor `desandovals`. 
+Asignar los usuarios que trabajarán en él, incluyendo el usuario de un servidor `desandovals`. 
 
 ## 3. Compartir el repositorio
 
@@ -46,7 +46,7 @@ El README.md debe tener las instrucciones para cocinar un platillo, el que usted
 - Recordemos que para que cuente su participación, deberán haber insertado “código” en el README y compartir evidencia de su commit y push. Favor de compartir evidencia en Classroom.
 
 
-## El buen trabajo se recomensa
+## El buen trabajo se recompensa
 
 De forma adicional, les comparto una tabla en la que ustedes podrán ganar puntos adicionales si su trabajo sobresale: 
 
