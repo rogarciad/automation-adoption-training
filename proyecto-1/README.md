@@ -43,7 +43,7 @@ El README.md debe tener las instrucciones para cocinar un platillo, el que usted
 ## Notas adicionales
 
 - El platillo que elijan **no deberá estar repetido** ni entre los equipos del mismo grupo, **ni con equipos de otros grupos.** Tendrán que comunicarse con sus rivales.
-- Recordemos que para que cuente su participación, deberán haber insertado “código” en el README y compartir evidencia de su commit y push. Favor de compartir evidencia en Classroom.
+- Recordemos que para que cuente su participación, deberán haber insertado “código” en el README y compartir evidencia de su commit y push. Favor de compartir evidencia. 
 
 
 ## El buen trabajo se recompensa
