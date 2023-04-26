@@ -55,7 +55,7 @@ De forma adicional, les comparto una tabla en la que ustedes podrán ganar punto
 | Rubro             | Puntaje extra     |
 | ----------------- | ----------------- |
 | Creatividad       | 3 participaciones |
-| Trabajo en equipo | 5 particioaciones |
+| Trabajo en equipo | 10 particioaciones|
 | Innovación        | 3 participaciones |
 | Complejidad       | 3 participaciones |
 
